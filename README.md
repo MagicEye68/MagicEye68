@@ -1,5 +1,5 @@
 # 💫 About Me:
-📍Based in Italy<br>🔭 UniPR Master Student <br> ⏰ 22 y.o
+📍Based in Italy<br>🎓 UniPR Master Student <br> ⏰ 22 y.o
 
 
 ## 🌐 Socials:
