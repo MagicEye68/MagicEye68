@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FingerprintProject<br>👯 I’m looking to collaborate on Destiny 2<br>🤝 I’m looking for help with PHP Arrays<br>🌱 I’m currently learning HTML<br>💬 Ask me about CSS<br>⚡ Fun fact I love Prolog
+🔭 UniPR Master Student
 
 
 ## 🌐 Socials:
