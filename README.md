@@ -1,5 +1,5 @@
 # 💫 About Me:
- 📍 Based in Italy<br>🎓Bachelor's degree in Computer Science<br>📚 UniPR Master Student <br> ⏰ 22 y.o
+ 📍 Based in Italy<br>🎓Bachelor's degree in Computer Science<br>📚 UniPR Master Student <br> ⏰ 23 y.o
 
 
 ## 🌐 Socials:
