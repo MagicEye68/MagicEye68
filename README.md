@@ -14,6 +14,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MagicEye68&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 🐍 GitHub Snake Animations
+Light: ![Snake Light](https://raw.githubusercontent.com/MagicEye68/MagicEye68/output/github-snake.svg)  
+Dark: ![Snake Dark](https://raw.githubusercontent.com/MagicEye68/MagicEye68/output/github-snake-dark.svg)  
+Animated Ocean: ![Snake Ocean](https://raw.githubusercontent.com/MagicEye68/MagicEye68/output/ocean.gif)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
