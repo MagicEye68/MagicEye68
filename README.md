@@ -1,5 +1,5 @@
 # 💫 About Me:
- 📍 Based in Italy<br>🎓Bachelor's degree in Computer Science<br>🎓Master's degree in Computer Science<br> <br> ⏰ 23 y.o
+ 📍 Based in Italy<br>🎓 Bachelor's degree in Computer Science<br>🎓 Master's degree in Computer Science<br> <br> ⏰ 23 y.o
 
 
 ## 🌐 Socials:
